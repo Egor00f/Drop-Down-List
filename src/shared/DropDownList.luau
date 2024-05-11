@@ -32,7 +32,6 @@ end
 
 --[[
 	Конструктор
-	
 	List	таблица-список из Element
 	Parent	Parent фрейма
 	ParentB	Guipublicect, с которого берется размер, позиция и цвет
