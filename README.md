@@ -18,7 +18,7 @@ local List = dropdownList.DropdownList:new(
     dropdownList.Element("UwU"),
   },
   Frame,          -- Frame that will be
-  3,              -- Rows, default 3
+  3,              -- Rows, default 4
   "Dropdown List" -- Name of List
 )
 
@@ -28,3 +28,4 @@ List:Update(function(newVal:number)
   print(newVal)
 end)
 ```
+Example of use in ReplicatedStorage
